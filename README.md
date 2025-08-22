@@ -14,6 +14,8 @@
 
 <hr>
 
+<img width="1093" height="547" alt="Screenshot 2025-08-22 161051" src="https://github.com/user-attachments/assets/29a534dc-0868-46b8-9614-ff28fe0945c1" />
+
 <h2>✨ Features</h2>
 <ul>
   <li>🎨 Premium CLI with <b>ANSI Shadow ASCII Art</b> + centered subtitle</li>
@@ -23,6 +25,9 @@
   <li>📂 Writes categorized results into <code>Results/Hits.txt</code></li>
   <li>🛡️ OpenBullet-style flow with advanced headers</li>
 </ul>
+
+<h2> I also made its (.svb) Config for SilverBullet 1.1.4 </h2>
+<img width="686" height="738" alt="Screenshot 2025-08-22 160143" src="https://github.com/user-attachments/assets/4ecb1316-044a-41ec-a7b9-c7cfc4407415" />
 
 <h2>🚀 Installation</h2>
 <pre><code>git clone https://github.com/YashvirGaming/piaproxy_checker.git
